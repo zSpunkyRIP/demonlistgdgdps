@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "name": "Name",
+    "author": "Uploader",
+    "creators": [],
+    "verifier": "Verifier",
+    "verification": "Link",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+		{
+			"user": "Victor",
+			"link": "Yt link",
+			"percent": 100
+		}
+    ]
+}
+[
+  {
+      "name": "Placeholder Tier",
+      "color": "linear-gradient(31deg, rgba(124,124,124,1) 0%, rgba(251,251,251,1) 50%, rgba(124,124,124,1) 100%)",
+      "packs": [
+          "Placeholder packs"
+      ]
+  }
+]
+
+
+[
+  {
+      "name": "Placeholder Pack",
+      "levels": [
+          "levelhere"
+      ],
+      "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
+  }
+]

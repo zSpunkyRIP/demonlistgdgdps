@@ -1,0 +1,56 @@
+[
+    {
+        "role": "owner",
+        "members": [
+            {
+                "name": "Rankmon",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "role": "coowner",
+        "members": [
+            {
+                "name": "NuveGD",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "role": "admin",
+        "members": [
+            {
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "role": "trial",
+        "members": [
+            {
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "role": "helper",
+        "members": [
+            {
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "role": "dev",
+            "members": [
+                {
+                    "name": "zSpunky",
+                    "link": ""
+                }
+            ]
+    }
+]
